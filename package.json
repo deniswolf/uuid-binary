@@ -1,0 +1,22 @@
+{
+  "name": "uuid-binary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniswolf/memory-report.git"
+  },
+  "author": "Denis Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deniswolf/memory-report/issues"
+  },
+  "homepage": "https://github.com/deniswolf/memory-report#readme",
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
+}
